@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Basic JS project where you can search for a specific robot user from the given list with their details.
 ## Available Scripts
 
 In the project directory, you can run:
